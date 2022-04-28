@@ -1,0 +1,6 @@
+TOKEN = "5110234911:AAEUc88UYvB_b0rKfsRKpQAMYTOxm_fi_DI"
+URL_ZHUSIPOVASHOP = "https://instagram.com/mr.romantic_kz?igshid=YmMyMTA2M2Y="
+URL_lOCATION = "https://2gis.kz/taraz/geo/70000001054964662"
+URL_OSNAVATEL = "https://instagram.com/zhus1pova?igshid=YmMyMTA2M2Y="
+URL_DOSTSVKA = "https://taplink.cc/mr.romantic_kz"
+URL_OTZYVY = "https://instagram.com/mr.romantic_kz?igshid=YmMyMTA2M2Y="
